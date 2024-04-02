@@ -1,5 +1,7 @@
-Un poco sobre mí:
+
 ![[git-banner.png]]
+
+Un poco sobre mí:
 > Soy un joven de 24 años, de Sevilla (España), apasionado del arte, diseñador independiente de videojuegos, con gusto por el diseño 3D y la animación en general.
 
 ___
