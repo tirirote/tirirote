@@ -1,16 +1,14 @@
-### Hi there 👋
+Un poco sobre mí:
+![[git-banner.png]]
+> Soy un joven de 24 años, de Sevilla (España), apasionado del arte, diseñador independiente de videojuegos, con gusto por el diseño 3D y la animación en general.
 
-<!--
-**tirirote/tirirote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+Capacidades y desempleño fluido en: 
+- 🟥 Desarrollador Independiente con Unity en C#.
+- 🟧 Diseñador 2D, Pixel Art.
+- 🟦 Diseñador 3D, Modelaje 3D, Animación 3D.
 
-Here are some ideas to get you started:
+*Actualmente trabajando en proyectos personales de forma independiente como desarrollador independiente de videojuegos, cursando la FP Superior de ASIR presencial en el IES Rodrigo Caro (Coría del Río , Sevilla, España).*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mejorando a diario.**
+___
